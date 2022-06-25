@@ -10,7 +10,7 @@ To pass these tests, complete assertion syntax in file ./tests/1_unit-tests.js.
 
 To pass these tasks, complete functions in file ./tests/2_functional-tests.js
 
-@@include[output.md](./public/output.md)
+@@include[public/output.md](./public/output.md)
 
 
 
