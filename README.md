@@ -12,9 +12,10 @@ To pass these tasks, complete functions in file ./tests/2_functional-tests.js
 
 
 
-#### Funtional Tests Output
-
- npm start
+#### Tests Output
+```
+npm start
+```
 
 > automated-testing-app@0.0.1 start /home/runner/boilerplate-mochachai
 > node server.js
